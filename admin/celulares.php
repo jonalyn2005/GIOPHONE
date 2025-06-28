@@ -1,0 +1,3 @@
+<?php
+// Administración de celulares
+?>
